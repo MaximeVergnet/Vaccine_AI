@@ -1,0 +1,1142 @@
+Dataset,Subject,Time,Binding,Vaccine Scheme,Figure
+2016 Tam,Mouse_1,Day7,0.016577,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_1,Day14,10.4716,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_1,Day21,8.825876,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_1,Day28,56.63966,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_1,Day35,77.85953,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_1,Day42,89.49092,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_1,Day49,84.68372,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_1,Day56,52.14862,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_1,Day63,92.5013,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_1,Day70,128.0774,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_1,Day77,80.24887,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_1,Day84,79.37682,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_1,Day125,51.6893,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_1,Day139,29.7263,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_2,Day7,0.037463,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_2,Day14,3.005803,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_2,Day21,2.991009,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_2,Day28,12.01145,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_2,Day35,12.03274,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_2,Day42,8.744988,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_2,Day49,9.632133,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_2,Day56,9.12144,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_2,Day63,9.796851,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_2,Day70,10.82445,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_2,Day77,10.79922,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_2,Day84,9.081924,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_2,Day125,10.89659,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_2,Day139,6.978771,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_3,Day7,0.082242,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_3,Day14,9.998143,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_3,Day21,3.438225,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_3,Day28,13.66212,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_3,Day35,11.3532,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_3,Day42,11.84923,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_3,Day49,7.585487,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_3,Day56,8.667974,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_3,Day63,9.480724,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_3,Day70,8.141675,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_3,Day77,7.432139,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_3,Day84,5.680658,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_3,Day125,5.432451,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_3,Day139,6.371856,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_4,Day7,0.038904,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_4,Day14,6.239514,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_4,Day21,4.536165,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_4,Day28,29.14868,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_4,Day35,20.97675,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_4,Day42,23.4358,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_4,Day49,24.03637,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_4,Day56,23.20534,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_4,Day63,21.41085,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_4,Day70,25.69408,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_4,Day77,21.52785,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_4,Day84,19.85561,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_4,Day125,12.63113,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_4,Day139,10.364,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_5,Day7,0.023394,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_5,Day14,8.122602,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_5,Day21,3.983698,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_5,Day28,33.33221,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_5,Day35,37.60399,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_5,Day42,42.3504,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_5,Day49,31.85523,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_5,Day56,14.74326,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_5,Day63,36.95768,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_5,Day70,46.45653,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_5,Day77,32.75071,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_5,Day84,26.96649,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_5,Day125,16.99425,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_5,Day139,13.3676,1wk Exp-inc Prime/Bolus Boost Day 21,Fig1C-Blue
+2016 Tam,Mouse_6,Day7,0.223733,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_6,Day14,1.299696,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_6,Day21,1.171285,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_6,Day28,11.09144,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_6,Day35,14.07505,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_6,Day42,13.20137,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_6,Day49,15.15325,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_6,Day56,12.30235,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_6,Day63,8.282596,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_6,Day70,12.38801,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_6,Day77,14.23471,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_6,Day84,14.78691,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_6,Day125,9.312757,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_6,Day139,8.83132,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_7,Day7,0.24902,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_7,Day14,0.704448,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_7,Day21,0.481067,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_7,Day28,11.15009,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_7,Day35,10.14481,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_7,Day42,10.02331,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_7,Day49,9.890443,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_7,Day56,7.050255,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_7,Day63,8.170758,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_7,Day70,9.363772,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_7,Day77,8.169378,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_7,Day84,7.545209,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_7,Day125,5.783886,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_7,Day139,4.897196,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_8,Day7,0.089087,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_8,Day14,0.620267,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_8,Day21,0.414946,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_8,Day28,2.560788,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_8,Day35,4.214208,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_8,Day42,4.105949,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_8,Day49,5.308673,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_8,Day56,4.279164,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_8,Day63,6.260236,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_8,Day70,5.430827,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_8,Day77,5.000824,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_8,Day84,7.497491,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_8,Day125,2.166065,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_8,Day139,2.062633,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_9,Day7,0.046214,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_9,Day14,0.473119,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_9,Day21,0.602423,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_9,Day28,8.464193,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_9,Day35,8.306277,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_9,Day42,8.030838,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_9,Day49,7.82089,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_9,Day56,6.639122,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_9,Day63,6.465627,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_9,Day70,6.44288,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_9,Day77,8.29011,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_9,Day84,6.052839,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_9,Day125,2.174773,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_9,Day139,1.545655,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_10,Day7,0.150518,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_10,Day14,1.036662,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_10,Day21,0.744229,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_10,Day28,5.800892,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_10,Day35,6.590235,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_10,Day42,7.996136,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_10,Day49,8.419632,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_10,Day56,28.04081,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_10,Day63,8.780947,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_10,Day70,7.794261,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_10,Day77,5.887322,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_10,Day84,8.967213,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_10,Day125,4.241291,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_10,Day139,3.009411,1wk Exp-dec Prime/Bolus Boost Day 21,Fig1C-Green
+2016 Tam,Mouse_11,Day7,0.216479,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_11,Day14,4.677015,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_11,Day21,2.040569,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_11,Day28,10.29631,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_11,Day35,10.35004,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_11,Day42,9.315298,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_11,Day49,12.76299,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_11,Day56,7.831457,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_11,Day63,9.458874,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_11,Day70,9.88883,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_11,Day77,8.330437,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_11,Day84,16.38431,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_11,Day125,4.304096,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_11,Day139,5.73265,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_12,Day7,0.090709,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_12,Day14,2.001076,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_12,Day21,1.452399,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_12,Day28,10.30928,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_12,Day35,8.494105,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_12,Day42,8.283527,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_12,Day49,11.69714,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_12,Day56,12.11321,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_12,Day63,10.64214,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_12,Day70,11.1376,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_12,Day77,9.777461,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_12,Day84,15.3142,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_12,Day125,4.448494,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_12,Day139,4.965694,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_13,Day7,0.172887,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_13,Day14,4.036566,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_13,Day21,2.743407,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_13,Day28,10.21125,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_13,Day35,14.39765,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_13,Day42,13.82155,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_13,Day49,16.19494,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_13,Day56,21.64638,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_13,Day63,18.25288,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_13,Day70,18.1834,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_13,Day77,21.36755,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_13,Day84,17.3132,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_13,Day125,1.511348,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_13,Day139,11.95075,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_14,Day7,0.4545,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_14,Day14,6.066622,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_14,Day21,3.314121,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_14,Day28,13.56956,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_14,Day35,13.47921,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_14,Day42,10.83519,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_14,Day49,16.78697,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_14,Day56,11.12423,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_14,Day63,10.92667,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_14,Day70,10.17964,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_14,Day77,11.21705,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_14,Day84,13.84705,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_14,Day125,8.483186,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_14,Day139,4.781693,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_15,Day7,0.21494,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_15,Day14,4.475849,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_15,Day21,3.183333,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_15,Day28,17.60916,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_15,Day35,21.59421,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_15,Day42,16.81841,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_15,Day49,17.43466,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_15,Day56,19.34612,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_15,Day63,18.15142,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_15,Day70,17.97423,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_15,Day77,30.08921,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_15,Day84,16.94679,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_15,Day125,0.892708,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_15,Day139,8.750155,Constant Prime/Bolus Boost Day 21,Fig1C-Yellow
+2016 Tam,Mouse_16,Day7,0.062329,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_16,Day14,0.087066,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_16,Day21,0.139657,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_16,Day28,2.072603,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_16,Day35,8.626384,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_16,Day42,11.85694,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_16,Day49,10.32965,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_16,Day56,8.895981,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_16,Day63,9.75104,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_16,Day70,9.65058,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_16,Day77,11.37195,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_16,Day84,8.81479,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_16,Day125,5.026772,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_16,Day139,3.837612,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_17,Day7,0.033422,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_17,Day14,0.871093,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_17,Day21,0.775874,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_17,Day28,5.69638,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_17,Day35,7.611693,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_17,Day42,10.1817,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_17,Day49,10.48006,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_17,Day56,10.5601,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_17,Day63,8.480262,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_17,Day70,9.083342,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_17,Day77,9.930858,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_17,Day84,8.125062,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_17,Day125,3.977618,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_17,Day139,4.609733,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_18,Day7,0.08599,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_18,Day14,0.660449,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_18,Day21,0.358593,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_18,Day28,3.250728,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_18,Day35,6.704809,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_18,Day42,4.450679,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_18,Day49,4.760833,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_18,Day56,7.022513,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_18,Day63,4.426054,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_18,Day70,6.654605,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_18,Day77,5.254712,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_18,Day84,5.196591,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_18,Day125,13.91921,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_18,Day139,0.927147,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_19,Day7,0.090438,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_19,Day14,0.502032,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_19,Day21,0.47453,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_19,Day28,8.089917,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_19,Day35,11.81263,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_19,Day42,13.79931,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_19,Day49,16.94104,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_19,Day56,19.59128,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_19,Day63,12.94503,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_19,Day70,15.96401,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_19,Day77,14.37359,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_19,Day84,14.93463,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_19,Day125,6.171942,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_19,Day139,7.795269,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_20,Day7,0.276012,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_20,Day14,1.237083,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_20,Day21,1.181403,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_20,Day28,7.502205,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_20,Day35,6.003029,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_20,Day42,6.190324,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_20,Day49,6.639122,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_20,Day56,5.305316,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_20,Day63,3.893053,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_20,Day70,4.502321,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_20,Day77,4.656411,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_20,Day84,4.208274,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_20,Day125,8.480433,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_20,Day139,0.892708,Bolus Prime/Bolus Boost Day 21,Fig1C-Red
+2016 Tam,Mouse_21,Day7,0.1,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_21,Day14,27.94078,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_21,Day21,19.17029,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_21,Day28,26.36527,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_21,Day35,24.73758,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_21,Day42,21.49009,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_21,Day49,35.73288,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_21,Day56,23.43741,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_21,Day63,45.50331,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_21,Day77,27.68372,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_21,Day91,17.26597,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_22,Day7,0.1,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_22,Day14,10.82128,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_22,Day21,3.882582,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_22,Day28,20.75868,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_22,Day35,14.54851,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_22,Day42,13.5449,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_22,Day49,13.55347,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_22,Day56,8.707424,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_22,Day63,26.49628,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_22,Day77,10.36373,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_22,Day91,7.884632,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_23,Day7,1.133349,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_23,Day14,0,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_23,Day21,3.915306,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_23,Day28,11.15273,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_23,Day35,10.02237,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_23,Day42,11.63422,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_23,Day49,16.24785,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_23,Day56,16.63601,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_23,Day63,48.08993,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_23,Day77,21.7416,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_23,Day91,18.49807,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_24,Day7,0.1,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_24,Day14,8.62693,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_24,Day21,2.73251,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_24,Day28,10.82377,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_24,Day35,14.60487,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_24,Day42,13.76342,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_24,Day49,24.74326,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_24,Day56,13.96219,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_24,Day63,23.90332,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_24,Day77,18.38083,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_24,Day91,16.59922,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_25,Day7,0.1,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_25,Day14,5.796994,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_25,Day21,4.442121,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_25,Day28,17.68403,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_25,Day35,19.94098,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_25,Day42,28.62855,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_25,Day49,49.51188,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_25,Day56,44.88758,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_25,Day63,96.73872,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_25,Day77,69.63625,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_25,Day91,48.75227,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_26,Day7,0.1,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_26,Day14,2.691496,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_26,Day21,4.191208,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_26,Day28,180.203,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_26,Day35,28.45502,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_26,Day42,29.62365,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_26,Day49,23.45652,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_26,Day56,42.93338,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_26,Day63,22.89327,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_26,Day77,16.20938,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_26,Day91,14.48739,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_27,Day7,0.1,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_27,Day14,6.846167,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_27,Day21,6.142015,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_27,Day28,42.11132,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_27,Day35,55.73107,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_27,Day42,66.32426,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_27,Day49,70.85957,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_27,Day56,148.2551,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_27,Day63,58.43393,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_27,Day77,40.71529,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_27,Day91,43.3504,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_28,Day7,8.050896,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_28,Day14,2.812767,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_28,Day21,2.013602,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_28,Day28,23.08123,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_28,Day35,60.2579,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_28,Day42,104.5742,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_28,Day49,129.5253,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_28,Day56,186.1317,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_28,Day63,184.3214,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_28,Day77,163.7085,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_28,Day91,132.1162,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_29,Day7,0.1,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_29,Day14,6.298006,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_29,Day21,6.19455,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_29,Day28,64.32382,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_29,Day35,79.56292,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_29,Day42,71.65427,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_29,Day49,66.96016,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_29,Day56,121.4733,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_29,Day63,49.08223,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_29,Day77,45.61094,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_29,Day91,38.1478,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_30,Day7,0.5002653,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_30,Day14,12.68298,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_30,Day21,8.822088,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_30,Day28,20.56324,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_30,Day35,15.48446,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_30,Day42,14.69753,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_30,Day49,11.454,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_30,Day56,31.82456,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_30,Day63,7.228927,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_30,Day77,2.971057,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_30,Day91,-2.142207,1wk Exp-inc Prime/Bolus Boost Day 21,Fig2C-Blue
+2016 Tam,Mouse_31,Day7,0.8607703,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_31,Day14,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_31,Day21,30.97445,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_31,Day28,22.5274,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_31,Day35,89.8941,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_31,Day42,133.2678,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_31,Day49,144.4761,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_31,Day56,113.7169,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_31,Day63,187.4503,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_31,Day77,102.2864,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_31,Day91,77.60854,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_32,Day7,1.065075,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_32,Day14,101.3444,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_32,Day21,148.5657,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_32,Day28,25.8955,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_32,Day35,206.2642,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_32,Day42,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_32,Day49,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_32,Day56,234.7374,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_32,Day63,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_32,Day77,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_32,Day91,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_33,Day7,0.1,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_33,Day14,32.23401,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_33,Day21,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_33,Day28,43.13202,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_33,Day35,168.7608,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_33,Day42,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_33,Day49,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_33,Day56,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_33,Day63,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_33,Day77,134.3335,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_33,Day91,132.7428,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_34,Day7,0.1,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_34,Day14,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_34,Day21,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_34,Day28,26.35855,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_34,Day35,68.23975,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_34,Day42,108.1865,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_34,Day49,141.9985,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_34,Day56,126.7329,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_34,Day63,147.9471,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_34,Day77,97.02924,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_34,Day91,99.49329,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_35,Day7,0.1,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_35,Day14,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_35,Day21,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_35,Day28,17.53053,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_35,Day35,55.8874,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_35,Day42,74.23905,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_35,Day49,78.00393,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_35,Day56,88.32806,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_35,Day63,68.75169,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_35,Day77,58.90275,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_35,Day91,50.75866,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_36,Day7,0.0405333,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_36,Day14,11.55253,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_36,Day21,22.12712,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_36,Day28,21.8047,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_36,Day35,104.5669,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_36,Day42,90.06842,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_36,Day49,79.44986,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_36,Day56,118.3707,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_36,Day63,74.74479,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_36,Day77,50.98301,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_36,Day91,46.20832,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_37,Day7,0.1,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_37,Day14,12.54016,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_37,Day21,25.22714,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_37,Day28,26.54677,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_37,Day35,203.6721,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_37,Day42,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_37,Day49,254.4255,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_37,Day56,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_37,Day63,-,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_37,Day77,151.315,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_37,Day91,145.0545,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_38,Day7,0.2809453,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_38,Day14,23.77241,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_38,Day21,18.16383,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_38,Day28,52.92432,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_38,Day35,163.3791,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_38,Day42,140.1067,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_38,Day49,97.84652,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_38,Day56,115.9003,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_38,Day63,87.06029,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_38,Day77,47.03642,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_38,Day91,34.96545,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_39,Day7,0.7805063,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_39,Day14,23.00551,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_39,Day21,20.21063,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_39,Day28,30.15788,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_39,Day35,177.0223,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_39,Day42,237.4574,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_39,Day49,135.0274,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_39,Day56,486.5504,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_39,Day63,272.7874,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_39,Day77,82.15224,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_39,Day91,80.86802,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_40,Day7,1.99948,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_40,Day14,18.62479,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_40,Day21,16.70551,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_40,Day28,17.07726,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_40,Day35,114.8136,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_40,Day42,199.318,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_40,Day49,157.8427,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_40,Day56,394.3969,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_40,Day63,168.4401,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_40,Day77,105.5514,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_40,Day91,82.58067,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2C-Purple
+2016 Tam,Mouse_41,Day7,0.4284213,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_41,Day14,0.1,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_41,Day21,0.1,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_41,Day28,0.6492847,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_41,Day35,0.540032,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_41,Day42,0.1353171,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_41,Day49,0.7025001,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_41,Day56,0.1,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_41,Day63,0.4927871,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_41,Day77,0.9824713,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_41,Day91,0.1,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_42,Day7,0.3600703,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_42,Day14,0.3574969,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_42,Day21,0.8084015,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_42,Day28,9.439765,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_42,Day35,8.912962,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_42,Day42,6.709359,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_42,Day49,7.484022,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_42,Day56,7.863651,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_42,Day63,8.077077,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_42,Day77,11.81818,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_42,Day91,6.011402,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_43,Day7,0.1,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_43,Day14,4.457585,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_43,Day21,0.1,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_43,Day28,3.415436,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_43,Day35,8.383817,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_43,Day42,6.276068,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_43,Day49,11.33349,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_43,Day56,9.842754,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_43,Day63,11.04791,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_43,Day77,12.12773,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_43,Day91,8.831021,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_44,Day7,0.4049843,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_44,Day14,0.658249,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_44,Day21,0.1,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_44,Day28,6.047581,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_44,Day35,9.944006,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_44,Day42,15.50975,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_44,Day49,17.43014,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_44,Day56,15.05373,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_44,Day63,16.99369,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_44,Day77,17.77433,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_44,Day91,13.25609,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_45,Day7,1.171809,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_45,Day14,0.1,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_45,Day21,0.1,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_45,Day28,0.7187617,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_45,Day35,2.197856,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_45,Day42,1.025427,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_45,Day49,2.601015,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_45,Day56,2.052151,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_45,Day63,0.09786705,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_45,Day77,0.3348513,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_45,Day91,0.1,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_46,Day7,0.7699653,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_46,Day14,2.917899,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_46,Day21,2.24421,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_46,Day28,9.337754,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_46,Day35,9.092009,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_46,Day42,8.202265,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_46,Day49,8.335614,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_46,Day56,10.9957,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_46,Day63,5.8068,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_46,Day77,21.40837,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_46,Day91,3.513979,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_47,Day7,0.9603563,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_47,Day14,2.160782,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_47,Day21,1.680375,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_47,Day28,4.258047,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_47,Day35,5.879892,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_47,Day42,5.563866,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_47,Day49,5.01044,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_47,Day56,6.466646,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_47,Day63,5.16367,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_47,Day77,1.532796,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_47,Day91,1.477147,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_48,Day7,0.2366343,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_48,Day14,0.587392,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_48,Day21,1.394806,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_48,Day28,5.926659,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_48,Day35,9.026318,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_48,Day42,9.839554,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_48,Day49,8.641075,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_48,Day56,11.79516,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_48,Day63,10.28031,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_48,Day77,5.372367,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_48,Day91,5.804266,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_49,Day7,0.0210463,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_49,Day14,2.903148,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_49,Day21,1.377146,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_49,Day28,3.857029,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_49,Day35,8.170665,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_49,Day42,8.067118,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_49,Day49,23.71471,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_49,Day56,31.81308,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_49,Day63,13.49299,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_49,Day77,5.776322,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_49,Day91,5.797996,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_50,Day7,0.1,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_50,Day14,0.490111,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_50,Day21,0.4514005,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_50,Day28,8.057067,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_50,Day35,14.24833,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_50,Day42,12.16447,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_50,Day49,13.48518,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_50,Day56,33.40023,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_50,Day63,15.6095,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_50,Day77,11.27946,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_50,Day91,9.422441,Bolus Prime/Bolus Boost Day 21,Fig2C-Red
+2016 Tam,Mouse_51,Day7,0.0623823,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_51,Day14,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_51,Day21,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_51,Day28,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_51,Day35,1.115807,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_51,Day42,1.722887,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_51,Day49,1.938876,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_51,Day56,0.5407185,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_51,Day63,0.457884,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_51,Day77,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_51,Day91,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_52,Day7,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_52,Day14,0.905238,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_52,Day21,0.1901905,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_52,Day28,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_52,Day35,10.14305,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_52,Day42,27.62632,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_52,Day49,12.43471,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_52,Day56,27.41543,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_52,Day63,47.45133,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_52,Day77,23.03142,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_52,Day91,22.57694,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_53,Day7,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_53,Day14,-,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_53,Day21,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_53,Day28,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_53,Day35,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_53,Day42,0.1922721,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_53,Day49,10.23677,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_53,Day56,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_53,Day63,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_53,Day77,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_53,Day91,0.4521165,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_54,Day7,0.9157993,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_54,Day14,1.022765,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_54,Day21,0.8058765,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_54,Day28,1.141702,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_54,Day35,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_54,Day42,20.13402,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_54,Day49,28.83369,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_54,Day56,33.94056,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_54,Day63,32.53836,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_54,Day77,24.92964,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_54,Day91,25.94543,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_55,Day7,1.566728,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_55,Day14,0.7015759,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_55,Day21,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_55,Day28,0.2251527,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_55,Day35,3.65126,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_55,Day42,6.868835,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_55,Day49,12.7864,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_55,Day56,6.701519,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_55,Day63,10.85283,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_55,Day77,10.11606,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_55,Day91,6.03025,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_56,Day7,0.5196673,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_56,Day14,1.496611,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_56,Day21,0.8843365,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_56,Day28,0.9491407,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_56,Day35,15.93892,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_56,Day42,33.68837,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_56,Day49,29.58995,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_56,Day56,52.9869,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_56,Day63,39.41295,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_56,Day77,10.84713,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_56,Day91,18.48449,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_57,Day7,0.2342773,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_57,Day14,0.543852,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_57,Day21,0.3931645,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_57,Day28,0.3892387,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_57,Day35,26.7723,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_57,Day42,43.25552,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_57,Day49,44.30054,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_57,Day56,68.64944,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_57,Day63,36.73199,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_57,Day77,23.73227,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_57,Day91,14.40769,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_58,Day7,1.068241,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_58,Day14,1.133545,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_58,Day21,1.84727,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_58,Day28,1.13152,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_58,Day35,14.76154,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_58,Day42,15.28744,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_58,Day49,13.69482,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_58,Day56,24.85775,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_58,Day63,15.54921,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_58,Day77,9.038623,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_58,Day91,8.895191,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_59,Day7,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_59,Day14,0.4281409,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_59,Day21,0.4342065,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_59,Day28,0.1,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_59,Day35,23.44384,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_59,Day42,38.54752,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_59,Day49,49.27917,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_59,Day56,74.61265,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_59,Day63,58.76174,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_59,Day77,37.35865,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_59,Day91,33.1739,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_60,Day7,0.4302263,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_60,Day14,1.319262,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_60,Day21,0.2927135,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_60,Day28,0.9390607,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_60,Day35,7.17716,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_60,Day42,9.680984,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_60,Day49,6.854576,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_60,Day56,13.93755,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_60,Day63,7.342007,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_60,Day77,5.744718,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_60,Day91,4.780294,Bolus Prime/Bolus Boost Day 28,Fig2C-Brown
+2016 Tam,Mouse_61,Day7,0.1,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_61,Day14,28.79469,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_61,Day21,77.81121,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_61,Day28,39.35182,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_61,Day35,28.44055,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_61,Day42,474.6508,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_61,Day49,570.38,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_61,Day56,368.3689,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_62,Day7,2.680779,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_62,Day14,61.29676,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_62,Day21,162.8204,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_62,Day28,31.35241,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_62,Day35,29.74012,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_62,Day42,607.5157,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_62,Day49,450.4861,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_62,Day56,455.3108,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_63,Day7,0.1,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_63,Day14,304.7862,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_63,Day21,136.3982,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_63,Day28,56.03549,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_63,Day35,52.95003,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_63,Day42,1238.749,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_63,Day49,1036.818,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_63,Day56,715.6763,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_64,Day7,0.1,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_64,Day14,46.05027,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_64,Day21,100.8399,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_64,Day28,38.72969,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_64,Day35,41.20255,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_64,Day42,537.5219,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_64,Day49,656.146,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_64,Day56,359.2228,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_65,Day7,0.1,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_65,Day14,73.98344,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_65,Day21,76.00111,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_65,Day28,31.74461,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_65,Day35,42.41388,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_65,Day42,607.9431,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_65,Day49,464.9641,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_65,Day56,411.0151,2wk Exp-inc Prime/2wk Exp-inc Boost Day 28,Fig2F-Pink
+2016 Tam,Mouse_66,Day7,4.777283,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_66,Day14,188.7816,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_66,Day21,90.02423,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_66,Day28,63.76992,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_66,Day35,253.5651,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_66,Day42,343.3736,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_66,Day49,172.285,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_66,Day56,371.4219,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_67,Day7,14.45811,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_67,Day14,70.73802,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_67,Day21,92.14639,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_67,Day28,34.38642,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_67,Day35,199.2573,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_67,Day42,163.9377,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_67,Day49,325.2885,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_67,Day56,109.6471,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_68,Day7,0.124254,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_68,Day14,93.53616,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_68,Day21,40.03411,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_68,Day28,58.97023,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_68,Day35,248.5822,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_68,Day42,180.5445,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_68,Day49,155.4297,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_68,Day56,173.989,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_69,Day7,0.1,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_69,Day14,94.59493,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_69,Day21,12.56625,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_69,Day28,33.7765,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_69,Day35,403.6712,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_69,Day42,312.3097,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_69,Day49,146.5306,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_69,Day56,322.5318,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_70,Day7,0.916034,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_70,Day14,77.58456,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_70,Day21,16.327,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_70,Day28,64.39606,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_70,Day35,245.4128,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_70,Day42,212.7937,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_70,Day49,344.1155,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_70,Day56,186.4037,2wk Exp-inc Prime/Bolus Boost Day 28,Fig2F-Purple
+2016 Tam,Mouse_71,Day7,6.804521,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_71,Day14,17.45782,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_71,Day21,17.82315,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_71,Day28,54.96464,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_71,Day35,55.23149,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_71,Day42,162.7522,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_71,Day49,286.3189,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_71,Day56,219.6136,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_72,Day7,3.564354,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_72,Day14,13.60558,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_72,Day21,20.00962,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_72,Day28,6.037785,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_72,Day35,5.627005,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_72,Day42,153.2137,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_72,Day49,84.10667,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_72,Day56,136.8963,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_73,Day7,1.046303,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_73,Day14,21.91613,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_73,Day21,12.80836,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_73,Day28,7.192798,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_73,Day35,10.03311,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_73,Day42,84.60548,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_73,Day49,165.6495,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_73,Day56,117.3217,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_74,Day7,4.578537,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_74,Day14,35.09439,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_74,Day21,11.95703,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_74,Day28,9.554059,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_74,Day35,7.304775,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_74,Day42,62.13013,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_74,Day49,171.4763,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_74,Day56,58.17552,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_75,Day7,5.076205,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_75,Day14,6.245463,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_75,Day21,15.41462,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_75,Day28,14.47545,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_75,Day35,19.55552,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_75,Day42,31.99637,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_75,Day49,279.0979,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_75,Day56,243.1571,Bolus Prime/2wk Exp-inc Boost Day 28,Fig2F-Gray
+2016 Tam,Mouse_76,Day7,1.770895,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_76,Day14,8.227805,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_76,Day21,42.21231,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_76,Day28,4.080253,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_76,Day35,41.26534,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_76,Day42,50.27418,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_76,Day49,61.08644,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_76,Day56,39.39009,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_77,Day7,3.147854,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_77,Day14,19.21601,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_77,Day21,16.99889,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_77,Day28,3.752656,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_77,Day35,46.57581,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_77,Day42,51.82594,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_77,Day49,129.625,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_77,Day56,42.60504,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_78,Day7,4.232734,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_78,Day14,40.56384,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_78,Day21,0.1,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_78,Day28,6.479828,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_78,Day35,135.2218,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_78,Day42,140.2953,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_78,Day49,146.6287,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_78,Day56,93.34428,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_79,Day7,9.253855,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_79,Day14,15.70716,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_79,Day21,1.768363,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_79,Day28,25.78664,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_79,Day35,136.5124,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_79,Day42,135.1518,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_79,Day49,53.5628,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_79,Day56,93.93203,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_80,Day7,2.645193,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_80,Day14,0.1,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_80,Day21,0.1,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_80,Day28,5.811564,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_80,Day35,66.3285,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_80,Day42,90.40627,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_80,Day49,45.68603,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_80,Day56,55.22795,Bolus Prime/Bolus Boost Day 28,Fig2F-Brown
+2016 Tam,Mouse_81,Day8,0.475,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_81,Day15,0.71,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_81,Day22,0.606,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_81,Day29,0.074,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_81,Day36,0.25,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_81,Day43,46.519,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_81,Day50,21.88,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_81,Day72,0.1,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_81,Day80,1.496,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_82,Day8,0.935,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_82,Day15,0.61,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_82,Day22,0.526,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_82,Day29,0.024,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_82,Day36,0.42,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_82,Day43,5.219,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_82,Day50,12.67,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_82,Day72,1.257,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_82,Day80,3.266,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_83,Day8,1.635,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_83,Day15,0.96,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_83,Day22,0.986,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_83,Day29,0.354,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_83,Day36,0.48,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_83,Day43,2.759,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_83,Day50,5.6,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_83,Day72,2.127,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_83,Day80,6.796,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_84,Day8,1.905,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_84,Day15,1.95,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_84,Day22,2.466,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_84,Day29,2.544,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_84,Day36,3.34,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_84,Day43,30.789,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_84,Day50,50.67,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_84,Day72,12.067,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_84,Day80,33.056,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_85,Day8,1.745,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_85,Day15,1.86,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_85,Day22,1.416,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_85,Day29,0.944,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_85,Day36,0.96,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_85,Day43,9.559,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_85,Day50,8.38,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_85,Day72,1.507,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_85,Day80,2.466,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_86,Day8,0.025,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_86,Day15,0.46,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_86,Day22,0.156,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_86,Day29,0.724,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_86,Day36,0.42,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_86,Day43,64.919,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_86,Day50,32.81,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_86,Day72,9.327,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_86,Day80,3.516,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_87,Day8,0.115,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_87,Day15,0.27,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_87,Day22,0.156,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_87,Day29,1.014,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_87,Day36,0.59,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_87,Day43,10.019,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_87,Day50,27.15,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_87,Day72,23.437,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_87,Day80,6.966,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_88,Day8,0.245,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_88,Day15,0.34,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_88,Day22,0.396,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_88,Day29,1.414,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_88,Day36,1.05,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_88,Day43,4.889,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_88,Day50,9.24,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_88,Day72,29.517,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_88,Day80,17.246,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_89,Day8,0.375,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_89,Day15,1.18,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_89,Day22,1.376,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_89,Day29,5.104,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_89,Day36,3.54,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_89,Day43,44.069,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_89,Day50,70.49,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_89,Day72,323.517,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_89,Day80,142.586,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_90,Day8,0.265,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_90,Day15,1.42,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_90,Day22,0.436,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_90,Day29,2.194,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_90,Day36,1.5,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_90,Day43,13.979,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_90,Day50,9.68,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_90,Day72,23.477,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_90,Day80,16.426,Bolus Prime/Bolus Boost Day 35,FigExtra-Black
+2016 Tam,Mouse_91,Day8,0.1,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_91,Day15,0.64,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_91,Day22,2.966,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_91,Day29,5.754,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_91,Day36,1.68,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_91,Day43,141.269,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_91,Day50,121.82,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_91,Day72,298.687,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_91,Day80,31.266,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_92,Day8,0.1,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_92,Day15,1.6,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_92,Day22,1.616,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_92,Day29,2.324,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_92,Day36,2.9,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_92,Day43,181.539,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_92,Day50,305.22,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_92,Day72,40.947,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_92,Day80,95.686,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_93,Day8,0.1,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_93,Day15,2.5,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_93,Day22,11.236,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_93,Day29,25.934,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_93,Day36,5.72,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_93,Day43,179.819,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_93,Day50,616.73,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_93,Day72,31.687,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_93,Day80,73.156,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_94,Day8,0.1,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_94,Day15,1.82,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_94,Day22,6.596,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_94,Day29,54.314,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_94,Day36,9.23,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_94,Day43,298.569,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_94,Day50,974.83,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_94,Day72,7.047,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_94,Day80,12.896,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_95,Day8,0.1,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_95,Day15,0.75,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_95,Day22,1.436,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_95,Day29,1.284,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_95,Day36,1.2,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_95,Day43,12.639,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_95,Day50,42.67,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_95,Day72,113.727,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_95,Day80,3.446,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_96,Day8,0.1,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_96,Day15,0.54,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_96,Day22,3.436,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_96,Day29,9.224,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_96,Day36,2.07,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_96,Day43,184.399,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_96,Day50,190.33,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_96,Day72,1110.837,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_96,Day80,71.516,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_97,Day8,0.1,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_97,Day15,1.08,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_97,Day22,1.006,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_97,Day29,3.394,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_97,Day36,1.84,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_97,Day43,257.639,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_97,Day50,475.15,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_97,Day72,222.267,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_97,Day80,365.496,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_98,Day8,0.1,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_98,Day15,2.12,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_98,Day22,8.746,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_98,Day29,47.494,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_98,Day36,6.62,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_98,Day43,321.339,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_98,Day50,1844.68,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_98,Day72,167.477,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_98,Day80,361.276,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_99,Day8,0.1,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_99,Day15,1.32,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_99,Day22,4.216,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_99,Day29,102.004,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_99,Day36,12.57,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_99,Day43,571.929,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_99,Day50,3620.31,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_99,Day72,35.197,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_99,Day80,53.496,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_100,Day8,0.1,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_100,Day15,0.45,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_100,Day22,0.826,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_100,Day29,2.484,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_100,Day36,2.07,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_100,Day43,22.219,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_100,Day50,118.52,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_100,Day72,458.897,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_100,Day80,13.746,2wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Purple
+2016 Tam,Mouse_101,Day8,0.1,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_101,Day15,0.26,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_101,Day22,1.026,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_101,Day29,1.904,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_101,Day36,1.07,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_101,Day43,4.029,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_101,Day50,24.3,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_101,Day72,180.997,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_101,Day80,63.176,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_102,Day8,0.105,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_102,Day15,0.37,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_102,Day22,4.546,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_102,Day29,2.764,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_102,Day36,4.32,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_102,Day43,14.239,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_102,Day50,115.71,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_102,Day72,50.867,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_102,Day80,26.056,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_103,Day8,0.275,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_103,Day15,1.49,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_103,Day22,2.126,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_103,Day29,3.574,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_103,Day36,9.06,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_103,Day43,50.609,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_103,Day50,77.93,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_103,Day72,10.587,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_103,Day80,4.676,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_104,Day8,0.555,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_104,Day15,1.19,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_104,Day22,8.236,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_104,Day29,37.424,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_104,Day36,21,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_104,Day43,35.999,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_104,Day50,36.62,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_104,Day72,23.577,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_104,Day80,5.276,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_105,Day8,-,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_105,Day15,-,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_105,Day22,-,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_105,Day29,-,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_105,Day36,-,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_105,Day43,-,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_105,Day50,-,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_105,Day72,-,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_105,Day80,-,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_106,Day8,0.1,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_106,Day15,0.06,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_106,Day22,0.656,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_106,Day29,3.024,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_106,Day36,1.86,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_106,Day43,8.269,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_106,Day50,46.37,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_106,Day72,692.977,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_106,Day80,233.706,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_107,Day8,0.1,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_107,Day15,0.03,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_107,Day22,5.136,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_107,Day29,5.564,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_107,Day36,5.99,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_107,Day43,27.239,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_107,Day50,440.73,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_107,Day72,156.587,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_107,Day80,93.816,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_108,Day8,0.1,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_108,Day15,0.71,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_108,Day22,1.706,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_108,Day29,5.744,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_108,Day36,12.31,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_108,Day43,98.829,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_108,Day50,300.73,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_108,Day72,35.997,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_108,Day80,25.446,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_109,Day8,0.255,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_109,Day15,0.63,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_109,Day22,4.806,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_109,Day29,46.884,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_109,Day36,37.29,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_109,Day43,170.429,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_109,Day50,108.14,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_109,Day72,104.457,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
+2016 Tam,Mouse_109,Day80,46.316,3wk Exp-inc Prime/Bolus Boost Day 35,FigExtra-Green
